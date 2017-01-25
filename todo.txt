@@ -9,3 +9,6 @@ ADD/create  class hierarchy map (soon!)
 
 OPNP java interface : add wizard to allow setup of names, IPaddresses, IP ports
 
+TEST more !
+
+CREATE machine.xml file to suit TVM920 (soon)
