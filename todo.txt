@@ -1,0 +1,7 @@
+25 Jan 17
+
+Todo 
+TVM driver : 
+add setup facility for machine cal settings to be locally stored rather than hard coded, also names for things like actuators
+
+OPNP java interface : add wizard to allow setup of names, IPaddresses, IP ports
